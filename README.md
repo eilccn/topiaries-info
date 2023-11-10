@@ -11,10 +11,12 @@ Please use this space to share images, text, code, a note saying you stopped by 
 2. Start a New Discussion or Contribute to an existing one.
 
 ### Contact Eileen
+Email: chng.eiln@gmail.com
+
 ig & twt @fictionalgame
 
 github & itch.io @eilccn
 
-Email: chng.eiln@gmail.com
+
 
 
