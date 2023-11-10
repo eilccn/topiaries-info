@@ -2,7 +2,7 @@
 
 
 ### Contributing to Topiaries
-This space is designed to be a collaborative area where individuals can share images, text, code, note saying you stopped by the show, contact info, signatures. 
+Please use this space to share images, text, code, a note saying you stopped by the show, contact info, a signature, ... 
 
 ### Participating in Discussions
 1. Go to the Discussions Tab
