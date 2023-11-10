@@ -13,9 +13,9 @@ Please use this space to share images, text, code, a note saying you stopped by 
 ### Contact Eileen
 Email: chng.eiln@gmail.com
 
-ig & twt @fictionalgame
+ig, twt @fictionalgame
 
-github & itch.io @eilccn
+github, itch.io @eilccn
 
 
 
