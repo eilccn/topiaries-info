@@ -3,7 +3,7 @@
 ### Eileen Chang 
 @fictionalgame @eilccn
 
-Send an email to: chng.eiln@gmail.com
+Email: chng.eiln@gmail.com
 
 #### Loop Critique Residency 7: recent ancient open-source analog encrypted garden memory
 
