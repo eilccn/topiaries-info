@@ -8,6 +8,6 @@ Please use this space to share images, text, code, a note saying you stopped by 
 
 ### Participating in Discussions
 1. Go to the Discussions Tab
-2. Start a New Discussion or Contribute to an Existing One.
+2. Start a New Discussion or Contribute to an existing one.
 
 
