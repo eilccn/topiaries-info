@@ -1,6 +1,9 @@
 # topiaries-info
 
-### Eileen Chang @fictionalgame
+### Eileen Chang 
+@fictionalgame @eilccn
+chng.eiln@gmail.com
+
 #### Loop Critique Residency 7: recent ancient open-source analog encrypted garden memory
 
 ### Contributing to Topiaries
