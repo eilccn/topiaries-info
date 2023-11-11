@@ -1,4 +1,4 @@
-# topiaries-info
+# Topiaries
 
 ### Eileen Chang 
 #### Loop Critique Residency 7: recent ancient open-source analog encrypted garden memory
