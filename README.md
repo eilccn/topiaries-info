@@ -6,7 +6,7 @@
 Maybe you will find what you are looking for here.
 
 ### Contributing to Topiaries
-Please use this space to share images, text, code, a note saying you stopped by the show, contact info, a signature, questions ... Use it like any other open-source repo, or don't.
+Please use this space to share images, text, code, a note saying you stopped by the show, contact info, a signature, questions ... Use it like you would use any other open-source repo, or don't.
 
 ### Participating in Discussions
 1. Go to the Discussions Tab
