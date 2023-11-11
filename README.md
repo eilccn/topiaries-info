@@ -3,8 +3,6 @@
 ### Eileen Chang 
 #### Loop Critique Residency 7: recent ancient open-source analog encrypted garden memory
 
-Maybe you will find what you are looking for here.
-
 ### Contributing to Topiaries
 Please use this space to share images, text, code, a note saying you stopped by the show, contact info, a signature, questions ... Use it like you would use any other open-source repo, or don't.
 
