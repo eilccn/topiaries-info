@@ -1,1 +1,1 @@
-# Physical Works
+# Algorithmic Painting and Knit Series
