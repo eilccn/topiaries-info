@@ -1,1 +1,1 @@
-# Algorithmic Painting and Knit Series
+# Algorithmic Painting and Knitting
