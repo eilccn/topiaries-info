@@ -1,1 +1,1 @@
-# Topiaries: Painting Series
+Algorithmic Painting Series
