@@ -1,1 +1,1 @@
-# Paintings and Knits
+# Paintings Series
