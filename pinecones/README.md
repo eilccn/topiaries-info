@@ -1,1 +1,1 @@
-# Paintings Series
+# Algorithmic Painting Series
