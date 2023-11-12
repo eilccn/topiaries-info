@@ -9,9 +9,9 @@
 ### Contact Eileen
 Email: chng.eiln@gmail.com
 
-ig, twt @fictionalgame
+![@fictionalgame](https://twitter.com/fictionalgame)
 
-github, itch.io @eilccn
+![@eilccn](https://eilccn.itch.io/garden-of-loom)
 
 
 
