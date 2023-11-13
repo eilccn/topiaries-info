@@ -12,4 +12,6 @@ Note: This current version of Garden of Loom is an initial prototype. The develo
 
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/IMG_2910-removebg-preview.png)
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/ai-narrative-generation-flowers.jpg)
+![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/ai-narrative-generation-tomato.png)
+![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/ai-narrative-generation-vines.png)
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/crochet-strawberry-asset.png)
