@@ -11,7 +11,5 @@ In the game, players take on the role of a young apprentice weaver named Lyra, w
 Note: This current version of Garden of Loom is an initial prototype. The developer is working to improve the narrative and conversation generation so that it is not as repetitive at times. More interesting puzzles will also be added, and the assets will be replaced with hand knit landscapes, garments, plants, and creatures. In future iterations, the game will hopefully be transformed into an open world and exploration game.
 
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/IMG_2910-removebg-preview.png)
-![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/menugarden.png)
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/ai-narrative-generation-flowers.jpg)
-![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/Screen%20Shot%202023-04-12%20at%2012.57.01%20AM.png)
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/acorns/garden-of-loom/crochet-strawberry-asset.png)
