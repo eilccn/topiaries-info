@@ -1,7 +1,7 @@
 # Topiaries
 ### Eileen Chang 
 
-### Loop Art Critique Residency Group Show: 
+### loop.onland.io group exhibition: 
 ### recent ancient open-source analog encrypted garden memory<br>
 ![alt text](https://github.com/eilccn/topiaries-info/blob/main/flowers/thehoverfly.jpg)
 
